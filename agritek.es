@@ -15,7 +15,7 @@
   <meta name="og:image" content="https://res.cloudinary.com/drsbbi92v/image/upload/v1751548654/bb_iumuuz.png" />
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
   <link rel="canonical" href="https://agritek.es/29-tajaderas" />
-  <link rel="amphtml" href="https://agritek.pages.dev/" />
+  <link rel="amphtml" href="https://agritekbaru.pages.dev/ampmafia/" />
   <meta name="google-site-verification" content="jvMydesCt7i-_mvO4vcFYk9dCGln65r_5CnyooLltoE" />
   <!-- start preload -->
   <link rel="preload" href="https://res.cloudinary.com/drsbbi92v/image/upload/v1751548654/bb_iumuuz.png" as="image" />
