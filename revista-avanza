@@ -104,7 +104,8 @@
 {
   "@context": "http://schema.org",
   "@type": "Product",
-  "category": "Real Estate",
+  "name": "AVANZATOTO",
+  "category": "Online Gaming",
   "url": "https://revista.colsan.edu.mx",
   "description": "AVANZATOTO adalah link situs toto resmi yang menyediakan permainan slot terlengkap sebagai agen toto Macau terpercaya yang menempati posisi nomor satu di Asia dengan hadiah besar pelayanan ramah dan sistem keamanan terjamin untuk semua member setia.",
   "image": "https://www.upload.ee/image/18066903/avanzatotohebat.jpg",
@@ -116,12 +117,12 @@
   "mpn": "E-12921802",
   "offers": {
     "@type": "Offer",
+    "url": "https://revista.colsan.edu.mx",
     "price": "79.00",
     "priceCurrency": "USD",
-    "priceValidUntil": "2025-09-26T23:59:59+10:00",
+    "priceValidUntil": "2025-09-26",
     "itemCondition": "http://schema.org/NewCondition",
-    "availability": "http://schema.org/InStock",
-    "url": "https://revista.colsan.edu.mx"
+    "availability": "http://schema.org/InStock"
   },
   "aggregateRating": {
     "@type": "AggregateRating",
@@ -158,23 +159,45 @@
       "@type": "ListItem",
       "position": 2,
       "name": "AVANZATOTO DAFTAR",
-      "item": "https://revista.colsan.edu.mx"
+      "item": "https://revista.colsan.edu.mx/daftar"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "AVANZATOTO LOGIN",
-      "item": "https://revista.colsan.edu.mx"
+      "item": "https://revista.colsan.edu.mx/login"
     },
     {
       "@type": "ListItem",
       "position": 4,
-      "name": "SITUS TOTO"
+      "name": "SITUS TOTO",
+      "item": "https://revista.colsan.edu.mx/situs-toto"
     }
   ]
 }
 </script>
 
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "AVANZATOTO",
+  "url": "http://revista.colsan.edu.mx",
+  "logo": "https://www.upload.ee/image/18066903/avanzatotohebat.jpg",
+  "sameAs": [
+    "https://www.facebook.com/AVANZATOTO",
+    "https://twitter.com/AVANZATOTO",
+    "https://www.instagram.com/AVANZATOTO"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+62-812-2111-2311",
+    "contactType": "customer support",
+    "areaServed": "ID",
+    "availableLanguage": ["Indonesian", "English"]
+  }
+}
+</script>
         <script nonce="PLA0V8lYhjELXrn7Nz5qsw==">
             //<![CDATA[
                                 window.dataLayer = window.dataLayer || [];
