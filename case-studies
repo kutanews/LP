@@ -62,114 +62,126 @@
         </script>
         <meta content="#333333" name="theme-color"/>
         <link href="https://www.a1future.com/case-studies/" rel="canonical"/>
-        <script type="application/ld+json">
-            {
-                "@context": "http://schema.org",
-                "@type": "WebSite",
-                "name": "HAPPY838 ",
-                "url": "https://themeforest.net"
-        }
-        </script>
-        <script type="application/ld+json">
-            {
-        "@context": "http://schema.org",
-        "@type": "Product",
-        "category": "SLOT GACOR",
-        "url": "https://www.a1future.com/case-studies/",
-        "description": "SENSA838 merupakan link situs Slot88 resmi yang gampang menang dan terbukti sebagai situs slot gacor 2025 untuk semua bro yang haus akan kemenangan besar dalam permainan slot online setiap hari dengan jackpot melimpah dan bonus menarik.",
-        "image": "https://s3.envato.com/files/643877585/thumbnail.png",
-        "brand": {
-                "@type": "Brand",
-                "name": "SENSA838"
-        },
-        "sku": "20264492",
-        "mpn": "E-20264492",
-        "offers": {
-                "@type": "Offer",
-                "price": "59.00",
-                "priceCurrency": "USD",
-                "priceValidUntil": "2025-31-12",
-                "itemCondition": "http://schema.org/NewCondition",
-                "availability": "http://schema.org/InStock",
-                "url": "https://www.a1future.com/case-studies/"
-        },
-        "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.91",
-                "reviewCount": "8383"
-        },
-        "review": {
-                "@type": "Review",
-                "reviewRating": {
-                        "@type": "Rating",
-                        "ratingValue": "5",
-                        "bestRating": "5"
-                },
-                "author": {
-                        "@type": "Person",
-                        "name": "Player SENSA838"
-                }
-        }
+
+<!-- Website Markup -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "SENSA838",
+  "url": "https://revista.colsan.edu.mx"
 }
-        </script>
-        <script type="application/ld+json">
-            {
-        "@context": "http://schema.org",
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-                {
-                        "@type": "ListItem",
-                        "position": 1,
-                        "name": "SENSA838",
-                        "item": "https://www.a1future.com/case-studies/"
-                },
-                {
-                        "@type": "ListItem",
-                        "position": 2,
-                        "name": "SENSA838 LOGIN",
-                        "item": "https://www.a1future.com/case-studies/"
-                },
-                {
-                        "@type": "ListItem",
-                        "position": 3,
-                        "name": "SENSA838 SLOT",
-                        "item": "https://www.a1future.com/case-studies/"
-                },
-                {
-                        "@type": "ListItem",
-                        "position": 4,
-                        "name": "SLOT88",
-                        "item": "https://www.a1future.com/case-studies/"
-                },
-                {
-                        "@type": "ListItem",
-                        "position": 5,
-                        "name": "SITUS GACOR"
-                }
-        ]
+</script>
+
+<!-- Product Markup -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "category": "SLOT GACOR",
+  "url": "https://www.a1future.com/case-studies/",
+  "description": "SENSA838 merupakan link situs Slot88 resmi yang gampang menang dan terbukti sebagai situs slot gacor 2025 untuk semua bro yang haus akan kemenangan besar dalam permainan slot online setiap hari dengan jackpot melimpah dan bonus menarik.",
+  "image": "https://s3.envato.com/files/643877585/thumbnail.png",
+  "brand": {
+    "@type": "Brand",
+    "name": "SENSA838"
+  },
+  "sku": "20264492",
+  "mpn": "E-20264492",
+  "offers": {
+    "@type": "Offer",
+    "price": "59.00",
+    "priceCurrency": "USD",
+    "priceValidUntil": "2025-12-31",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "url": "https://www.a1future.com/case-studies/"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.91",
+    "reviewCount": "8383"
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5",
+      "bestRating": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Player SENSA838"
+    }
+  }
 }
-        </script>
-        <script type="application/ld+json">
-            {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "name": "SENSA838",
-        "url": "https://www.a1future.com/case-studies/",
-        "logo": "/images/logo-spinbet99.png",
-        "sameAs": [
-                "https://www.facebook.com/SENSA838OFFICIAL",
-                "https://twitter.com/SENSA838OFFICIAL",
-                "https://www.instagram.com/SENSA838OFFICIAL"
-        ],
-        "contactPoint": {
-                "@type": "ContactPoint",
-                "telephone": "+62-821-8388-8388",
-                "contactType": "customer support",
-                "areaServed": "ID",
-                "availableLanguage": ["Indonesian", "English"]
-        }
+</script>
+
+<!-- Breadcrumb Markup -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "SENSA838",
+      "item": "https://www.a1future.com/case-studies/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "SENSA838 LOGIN",
+      "item": "https://www.a1future.com/case-studies/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "SENSA838 SLOT",
+      "item": "https://www.a1future.com/case-studies/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "SLOT88",
+      "item": "https://www.a1future.com/case-studies/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "name": "SITUS GACOR"
+    }
+  ]
 }
-        </script>
+</script>
+
+<!-- Organization Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SENSA838",
+  "url": "https://www.a1future.com/case-studies/",
+  "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHV8DdY2ijVy9vzQJ_dlO-emX9Dpo1eJ5FAhEOoD2-voW4yBw56rT1QhXOMXkFlCZKA_vQiaMTpoDeP_Y5h2BQC8OsMo_ELmrwTRRl_dcZzrZLZ_iOZ-4dmQsWBc31aPxwjSDl6BJJTMJsu3ZaYKCNcKwyb0i_Wma6Xx9KogdePQnHAEUhXwtwtVqXX_fx/s540/Sensa838%20Mobile.gif",
+  "sameAs": [
+    "https://www.facebook.com/SENSA838OFFICIAL",
+    "https://twitter.com/SENSA838OFFICIAL",
+    "https://www.instagram.com/SENSA838OFFICIAL"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+62-821-8388-8388",
+    "contactType": "customer support",
+    "areaServed": "ID",
+    "availableLanguage": [
+      "Indonesian",
+      "English"
+    ]
+  }
+}
+</script>
+
         <script nonce="0dd7pbcJ+o21x5itDsKFfg==">
             //<![CDATA[
                 window.dataLayer = window.dataLayer || [];
