@@ -169,6 +169,25 @@
   ]
 }
 </script>
+
+        <script type="application/ld+json">
+            {
+    	    	    	    	"@context": "https://schema.org",
+    	    	    	    	"@type": "Organization",
+    	    	    	    	"name": "LEXUSTOTO",
+    	    	    	    	"url": "https://www.a1future.com/2d-3d-videos/",
+    	    	    	    	"logo": "https://api2-zom.imgzm.com/images/SDZCWMg4qy8/favicon_469367c0-6533-4c42-b0e5-bb93d84655c4_1757242154433.png",
+    	    	    	    	"sameAs": ["https://www.facebook.com/ZOOM555", "https://twitter.com/ZOOM555", "https://www.instagram.com/ZOOM555"],
+    	    	    	    	"contactPoint": {
+    		    		    		    		"@type": "ContactPoint",
+    		    		    		    		"telephone": "+62-812-523-9161",
+    		    		    		    		"contactType": "customer support",
+    		    		    		    		"areaServed": "ID",
+    		    		    		    		"availableLanguage": ["Indonesian", "English"]
+    	    	    	    	}
+                }
+        </script>
+
         <script nonce="0kYdzaB3waiC2qq1D/KMCg==">
             //<![CDATA[
                                 window.dataLayer = window.dataLayer || [];
